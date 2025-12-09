@@ -1,0 +1,29 @@
+{
+  "name": "atividade2-react-native-lol",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@expo/vector-icons": "^15.0.3",
+    "@react-navigation/bottom-tabs": "^7.8.12",
+    "@react-navigation/drawer": "^7.7.9",
+    "@react-navigation/native": "^7.1.25",
+    "@react-navigation/native-stack": "^7.8.6",
+    "expo": "~54.0.27",
+    "expo-status-bar": "~3.0.9",
+    "react": "19.1.0",
+    "react-native": "0.81.5",
+    "react-native-gesture-handler": "^2.29.1",
+    "react-native-paper": "^5.14.5"
+  },
+  "devDependencies": {
+    "@types/react": "~19.1.0",
+    "typescript": "~5.9.2"
+  },
+  "private": true
+}
